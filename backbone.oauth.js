@@ -94,7 +94,7 @@
       auth_url: 'https://www.facebook.com/dialog/oauth'
     },
     Google: {
-      auth_url: 'https://www.facebook.com/dialog/oauth',
+      auth_url: 'https://accounts.google.com/o/oauth2/auth',
       scope: 'https://www.googleapis.com/auth/userinfo.profile'
     }
   };
